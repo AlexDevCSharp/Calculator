@@ -43,3 +43,5 @@ elif choice == '4':
     else:
         print("The result of multiplication is:", divide(num1, num2))
 
+else:
+    print("Invalid operation selected.")
